@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.xlsx
+*.xls
+Results_ML_Revised/
+Figures_ML_Revised/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
